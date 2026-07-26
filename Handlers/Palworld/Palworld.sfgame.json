@@ -1,0 +1,21 @@
+{
+  "format": "splitfusion.native-game-profile",
+  "formatVersion": 1,
+  "game": {
+    "isolateDirs": [
+      "Engine/Binaries/ThirdParty/Steamworks/Steamv153/Win64",
+      "Pal/Binaries/Win64",
+      "Engine/Binaries/Win64"
+    ],
+    "useGoldberg": true,
+    "steamAppId": "1623730",
+    "performancePreset": "balanced",
+    "badges": [
+      "dev_approved",
+      "working"
+    ],
+    "name": "Palworld",
+    "description": "Point this at your Palworld install to launch it.",
+    "maxPlayers": 4
+  }
+}
