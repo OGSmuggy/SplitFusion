@@ -1,0 +1,26 @@
+{
+  "format": "splitfusion.native-game-profile",
+  "formatVersion": 1,
+  "game": {
+    "isolateDirs": [
+      "Foodslingers_Data/Plugins/x86_64/userdata"
+    ],
+    "useGoldberg": true,
+    "steamAppId": "2145460",
+    "performancePreset": "balanced",
+    "badges": [
+      "dev_approved",
+      "working"
+    ],
+    "name": "Foodslingers",
+    "description": "",
+    "maxPlayers": 4,
+    "fpsCap": 60,
+    "advancedControlsEnabled": true,
+    "inputCompatibilityFixes": [
+      "unity-wgi-xinput",
+      "process-newest-descendant"
+    ],
+    "runtimeExecutablePattern": ""
+  }
+}

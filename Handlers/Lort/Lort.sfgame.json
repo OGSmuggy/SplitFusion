@@ -1,0 +1,29 @@
+{
+  "format": "splitfusion.native-game-profile",
+  "formatVersion": 1,
+  "game": {
+    "isolateDirs": [
+      "BW/Saved",
+      "BW/Saved/Config",
+      "Engine/Binaries/ThirdParty/Steamworks/Steamv162/Win64/userdata",
+      "Engine/Saved",
+      "Engine/Saved/Config"
+    ],
+    "useGoldberg": true,
+    "steamAppId": "2956680",
+    "performancePreset": "balanced",
+    "badges": [
+      "dev_approved",
+      "working"
+    ],
+    "name": "Lort",
+    "description": "",
+    "maxPlayers": 4,
+    "fpsCap": 60,
+    "advancedControlsEnabled": false,
+    "inputCompatibilityFixes": [
+      "process-newest-descendant"
+    ],
+    "runtimeExecutablePattern": ""
+  }
+}
