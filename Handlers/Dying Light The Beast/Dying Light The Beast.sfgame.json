@@ -1,0 +1,32 @@
+{
+  "format": "splitfusion.native-game-profile",
+  "formatVersion": 1,
+  "game": {
+    "isolateDirs": [
+      "path/relative/to/dll/3008130/remote/out/profiles",
+      "ph_ft/work/out/settings",
+      "userdata"
+    ],
+    "useGoldberg": true,
+    "steamAppId": "3008130",
+    "performancePreset": "performance",
+    "performanceProfile": {
+      "version": 1,
+      "engine": "techland",
+      "method": "techland-video-scr",
+      "configSource": "game",
+      "configRelativePath": "ph_ft/work/out/settings/video.scr",
+      "executableRelativePath": "Launcher.exe"
+    },
+    "badges": [],
+    "name": "Dying Light The Beast",
+    "description": "",
+    "maxPlayers": 2,
+    "inputCompatibilityFixes": [
+      "process-runtime-executable"
+    ],
+    "fpsCap": 60,
+    "advancedControlsEnabled": false,
+    "runtimeExecutablePattern": ""
+  }
+}
